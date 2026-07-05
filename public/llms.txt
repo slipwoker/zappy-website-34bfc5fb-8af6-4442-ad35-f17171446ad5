@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://mms-official-34bfc5fb.zappy5.app
+https://example.com
 חנות אופנה אונליין מובילה עם מבחר ענק של חולצות כדורגל, שעונים, נעליים ועוד. הצטרף לאלפי לקוחות מרוצים וגלה את הסטייל המושלם שלך עוד היום.
 
 ### הסיפור שלנו
-https://mms-official-34bfc5fb.zappy5.app/brand-story
+https://example.com/brand-story
 הצטרף אלינו למסע מאחורי הקלעים של MMS Official, מותג אופנה שנולד מאהבה לסטייל נגיש. למה אנחנו אחת מחברות האופנה הגדולות בזירה? כנסו ותגלו.
 
 ### מדריך סגנון
-https://mms-official-34bfc5fb.zappy5.app/style-guide
+https://example.com/style-guide
 מדריך סגנון מקיף שמציע טיפים, טרנדים חמים ושילובים מפתיעים מכל הקטגוריות. מחולצות כדורגל ועד שעונים יוקרתיים – תן ללוק שלך לדבר.
 
 ### קיימות
-https://mms-official-34bfc5fb.zappy5.app/sustainability
+https://example.com/sustainability
 אנחנו מחויבים לקיימות אמיתית בתעשיית האופנה. גלו איך MMS Official מובילה שינוי עם חומרים ממוחזרים, ייצור הוגן ואריזות ירוקות. הצטרפו למהפכה.
 
 ### צור קשר
-https://mms-official-34bfc5fb.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידה, משלוח או סטיילינג אישי? צוות המומחים של MMS Official זמין לעזור לך בכל שאלה. פנה אלינו עוד היום ונחזור במהירות עם חיוך.
 
 ### Products
-https://mms-official-34bfc5fb.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - MMS Official
 
 ### Cart
-https://mms-official-34bfc5fb.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://mms-official-34bfc5fb.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://mms-official-34bfc5fb.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://mms-official-34bfc5fb.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://mms-official-34bfc5fb.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://mms-official-34bfc5fb.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - MMS Official
 
 ### Category
-https://mms-official-34bfc5fb.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - MMS Official
 
 ### תודה - MMS Official
-https://mms-official-34bfc5fb.zappy5.app/thank-you
+https://example.com/thank-you
 MMS Official - תודה - MMS Official
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://mms-official-34bfc5fb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://mms-official-34bfc5fb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://mms-official-34bfc5fb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://mms-official-34bfc5fb.zappy5.app/sitemap.xml
-- Robots: https://mms-official-34bfc5fb.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://mms-official-34bfc5fb.zappy5.app/llms-full.txt
-- Products (JSON): https://mms-official-34bfc5fb.zappy5.app/products.json
-- Products (Google Merchant RSS): https://mms-official-34bfc5fb.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

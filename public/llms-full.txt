@@ -2,13 +2,13 @@
 
 An online fashion store offering a wide variety of clothing and accessories including watches, shirts, football jerseys, shoes, and more. The store covers multiple fashion categories, suggesting a broad lifestyle and apparel brand aimed at diverse shoppers.
 
-Source: https://mms-official-34bfc5fb.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את עולם האופנה השלם — MMS Official
 
-URL: https://mms-official-34bfc5fb.zappy5.app
+URL: https://example.com
 Description: חנות אופנה אונליין מובילה עם מבחר ענק של חולצות כדורגל, שעונים, נעליים ועוד. הצטרף לאלפי לקוחות מרוצים וגלה את הסטייל המושלם שלך עוד היום.
 
 גלה את עולם האופנה השלם — MMS Official
@@ -442,7 +442,7 @@ Description: חנות אופנה אונליין מובילה עם מבחר ענ�
 
 ## מסע של תשוקה לאופנה — MMS Official
 
-URL: https://mms-official-34bfc5fb.zappy5.app/brand-story
+URL: https://example.com/brand-story
 Description: הצטרף אלינו למסע מאחורי הקלעים של MMS Official, מותג אופנה שנולד מאהבה לסטייל נגיש. למה אנחנו אחת מחברות האופנה הגדולות בזירה? כנסו ותגלו.
 
 מסע של תשוקה לאופנה — MMS Official
@@ -841,7 +841,7 @@ MMS Official מחברת בין עולמות — מהקז׳ואל היומיומ�
 
 ## השראה יומית לסטייל מנצח — MMS Official
 
-URL: https://mms-official-34bfc5fb.zappy5.app/style-guide
+URL: https://example.com/style-guide
 Description: מדריך סגנון מקיף שמציע טיפים, טרנדים חמים ושילובים מפתיעים מכל הקטגוריות. מחולצות כדורגל ועד שעונים יוקרתיים – תן ללוק שלך לדבר.
 
 השראה יומית לסטייל מנצח — MMS Official
@@ -1259,7 +1259,7 @@ Description: מדריך סגנון מקיף שמציע טיפים, טרנדים 
 
 ## אופנה שעושה טוב לעולם — MMS Official
 
-URL: https://mms-official-34bfc5fb.zappy5.app/sustainability
+URL: https://example.com/sustainability
 Description: אנחנו מחויבים לקיימות אמיתית בתעשיית האופנה. גלו איך MMS Official מובילה שינוי עם חומרים ממוחזרים, ייצור הוגן ואריזות ירוקות. הצטרפו למהפכה.
 
 אופנה שעושה טוב לעולם — MMS Official
@@ -1616,7 +1616,7 @@ Description: אנחנו מחויבים לקיימות אמיתית בתעשיי�
 
 ## דברו איתנו, נתפור לכם חוויה — MMS Official
 
-URL: https://mms-official-34bfc5fb.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על מידה, משלוח או סטיילינג אישי? צוות המומחים של MMS Official זמין לעזור לך בכל שאלה. פנה אלינו עוד היום ונחזור במהירות עם חיוך.
 
 דברו איתנו, נתפור לכם חוויה — MMS Official
@@ -2026,7 +2026,7 @@ MMS Official כאן בשבילך – בין אם אתם מחפשים שעון מ
 
 ## מוצרים
 
-URL: https://mms-official-34bfc5fb.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - MMS Official
 
 מוצרים - MMS Official
@@ -2289,7 +2289,7 @@ Description: המוצרים שלנו - MMS Official
 
 ## עגלת קניות
 
-URL: https://mms-official-34bfc5fb.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - MMS Official
@@ -2528,7 +2528,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://mms-official-34bfc5fb.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - MMS Official
@@ -2953,7 +2953,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://mms-official-34bfc5fb.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - MMS Official
@@ -3199,7 +3199,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://mms-official-34bfc5fb.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - MMS Official
@@ -3600,7 +3600,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://mms-official-34bfc5fb.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - MMS Official
@@ -3863,7 +3863,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://mms-official-34bfc5fb.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - MMS Official
@@ -4155,7 +4155,7 @@ MMS Official מחויבת לשביעות רצון לקוחותיה. מדיניו
 
 ## פרטי המוצר
 
-URL: https://mms-official-34bfc5fb.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - MMS Official
 
 פרטי המוצר - MMS Official
@@ -4396,7 +4396,7 @@ Description: פרטי המוצר - MMS Official
 
 ## מוצרים
 
-URL: https://mms-official-34bfc5fb.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - MMS Official
 
 מוצרים - MMS Official
@@ -4661,7 +4661,7 @@ Description: מוצרים - MMS Official
 
 ## מדיניות פרטיות
 
-URL: https://mms-official-34bfc5fb.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4944,7 +4944,7 @@ MMS Official ("החברה", "אנו", "שלנו") מחויבת להגן על פ�
 
 ## הצהרת נגישות
 
-URL: https://mms-official-34bfc5fb.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5236,7 +5236,7 @@ MMS Official מחויבת להנגיש את השירותים לכלל הציבו
 
 ## תנאי שימוש
 
-URL: https://mms-official-34bfc5fb.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5547,7 +5547,7 @@ MMS Official מספקת Fashion E-commerce דרך האתר. השירותים כ�
 
 ## תודה - MMS Official
 
-URL: https://mms-official-34bfc5fb.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: MMS Official - תודה - MMS Official
 
 תודה - MMS Official
