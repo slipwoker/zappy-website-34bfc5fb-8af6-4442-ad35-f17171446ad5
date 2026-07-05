@@ -1,0 +1,109 @@
+# MMS Official — Generative Engine Optimization Map
+
+> An online fashion store offering a wide variety of clothing and accessories including watches, shirts, football jerseys, shoes, and more. The store covers multiple fashion categories, suggesting a broad lifestyle and apparel brand aimed at diverse shoppers.
+
+---
+
+## Pages
+
+### בית
+https://mms-official-34bfc5fb.zappy5.app
+חנות אופנה אונליין מובילה עם מבחר ענק של חולצות כדורגל, שעונים, נעליים ועוד. הצטרף לאלפי לקוחות מרוצים וגלה את הסטייל המושלם שלך עוד היום.
+
+### הסיפור שלנו
+https://mms-official-34bfc5fb.zappy5.app/brand-story
+הצטרף אלינו למסע מאחורי הקלעים של MMS Official, מותג אופנה שנולד מאהבה לסטייל נגיש. למה אנחנו אחת מחברות האופנה הגדולות בזירה? כנסו ותגלו.
+
+### מדריך סגנון
+https://mms-official-34bfc5fb.zappy5.app/style-guide
+מדריך סגנון מקיף שמציע טיפים, טרנדים חמים ושילובים מפתיעים מכל הקטגוריות. מחולצות כדורגל ועד שעונים יוקרתיים – תן ללוק שלך לדבר.
+
+### קיימות
+https://mms-official-34bfc5fb.zappy5.app/sustainability
+אנחנו מחויבים לקיימות אמיתית בתעשיית האופנה. גלו איך MMS Official מובילה שינוי עם חומרים ממוחזרים, ייצור הוגן ואריזות ירוקות. הצטרפו למהפכה.
+
+### צור קשר
+https://mms-official-34bfc5fb.zappy5.app/contact
+יש שאלה על מידה, משלוח או סטיילינג אישי? צוות המומחים של MMS Official זמין לעזור לך בכל שאלה. פנה אלינו עוד היום ונחזור במהירות עם חיוך.
+
+### Products
+https://mms-official-34bfc5fb.zappy5.app/products
+המוצרים שלנו - MMS Official
+
+### Cart
+https://mms-official-34bfc5fb.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://mms-official-34bfc5fb.zappy5.app/checkout
+תשלום
+
+### Login
+https://mms-official-34bfc5fb.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://mms-official-34bfc5fb.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://mms-official-34bfc5fb.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://mms-official-34bfc5fb.zappy5.app/product/:slug
+פרטי המוצר - MMS Official
+
+### Category
+https://mms-official-34bfc5fb.zappy5.app/category/:slug
+מוצרים - MMS Official
+
+### תודה - MMS Official
+https://mms-official-34bfc5fb.zappy5.app/thank-you
+MMS Official - תודה - MMS Official
+
+## Legal & Policy
+
+### Privacy Policy
+https://mms-official-34bfc5fb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://mms-official-34bfc5fb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://mms-official-34bfc5fb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About MMS Official
+An online fashion store offering a wide variety of clothing and accessories including watches, shirts, football jerseys, shoes, and more. The store covers multiple fashion categories, suggesting a broad lifestyle and apparel brand aimed at diverse shoppers.
+
+## Target Audience
+- נשים צעירות חובבות אופנה
+- גברים מקצוענים עירוניים
+- צרכנים מודעים אקולוגית
+- בני נוער טכנולוגיים
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://mms-official-34bfc5fb.zappy5.app/sitemap.xml
+- Robots: https://mms-official-34bfc5fb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://mms-official-34bfc5fb.zappy5.app/llms-full.txt
+- Products (JSON): https://mms-official-34bfc5fb.zappy5.app/products.json
+- Products (Google Merchant RSS): https://mms-official-34bfc5fb.zappy5.app/product-feed.xml
